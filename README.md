@@ -1,1 +1,1 @@
-# I wanna be a smart guy.
+# C++ の勉強用
